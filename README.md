@@ -1,4 +1,4 @@
-# 3-kingdoms-weather-shock
+# Dataset for Extreme Weather Events and Military Conflict over Seven Centuries in Ancient Korea
 
 This deposite contains the data file used in "Extreme Weather Events and Military Conflict over Seven Centuries in Ancient Korea" 
 by Tackseung Jun and Rajiv Seth.
